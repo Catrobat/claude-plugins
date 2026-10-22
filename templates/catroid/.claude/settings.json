@@ -1,0 +1,15 @@
+{
+  "extraKnownMarketplaces": {
+    "catrobat": {
+      "source": { "source": "github", "repo": "Catrobat/claude-plugins" }
+    },
+    "ponytail": {
+      "source": { "source": "github", "repo": "DietrichGebert/ponytail" }
+    }
+  },
+  "enabledPlugins": {
+    "catrobat-dev@catrobat": true,
+    "ponytail@ponytail": true,
+    "mattpocock-skills@claude-plugins-official": true
+  }
+}

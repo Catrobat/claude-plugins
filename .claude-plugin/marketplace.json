@@ -1,0 +1,17 @@
+{
+  "name": "catrobat",
+  "owner": {
+    "name": "Catrobat"
+  },
+  "metadata": {
+    "description": "Claude Code skills for working on Catrobat projects (Catroid, Catroweb, ...)"
+  },
+  "plugins": [
+    {
+      "name": "catrobat-dev",
+      "source": "./plugins/catrobat-dev",
+      "description": "Quality loop for pull requests: local gate, CI, independent cold review, plus Android emulator testing for Catroid.",
+      "category": "development"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "catrobat-dev",
+  "version": "0.1.0",
+  "description": "Quality loop for pull requests on Catrobat projects: local gate, CI on the exact commit, independent cold review, dependency-bump repair, public-safety check, and Android emulator testing for Catroid.",
+  "author": {
+    "name": "Catrobat"
+  },
+  "keywords": ["catrobat", "catroid", "catroweb", "pull-request", "review", "android", "emulator"]
+}
